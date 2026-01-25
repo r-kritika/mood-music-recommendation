@@ -1,0 +1,96 @@
+name,artist,valence,energy,mood
+Blinding Lights,The Weeknd,0.44,0.32,Happy
+Bohemian Rhapsody,Queen,0.25,0.89,Sad
+Stay,Justin Bieber,0.68,0.57,Calm
+Someone Like You,Adele,0.11,0.62,Sad
+Uptown Funk,Bruno Mars,0.92,0.37,Happy
+Shallow,Lady Gaga,0.14,0.82,Calm
+Happier,Marshmello,0.2,0.53,Angry
+Counting Stars,OneRepublic,0.79,0.81,Happy
+Shake It Off,Taylor Swift,0.92,0.6,Happy
+Let Her Go,Passenger,0.28,0.28,Sad
+Believer,Imagine Dragons,0.17,0.56,Angry
+Thinking Out Loud,Ed Sheeran,0.56,0.17,Calm
+Despacito,Luis Fonsi,0.69,0.6,Calm
+Perfect,Ed Sheeran,0.65,0.33,Sad
+Rolling in the Deep,Adele,0.6,0.94,Sad
+Faded,Alan Walker,0.81,0.79,Angry
+Chandelier,Sia,0.77,0.66,Sad
+All of Me,John Legend,0.47,0.43,Sad
+Radioactive,Imagine Dragons,0.92,0.79,Angry
+Love Yourself,Justin Bieber,0.19,0.71,Calm
+Heat Waves,Glass Animals,0.71,0.65,Sad
+Bad Guy,Billie Eilish,0.91,0.6,Happy
+Drivers License,Olivia Rodrigo,0.23,0.77,Sad
+Dance Monkey,Tones and I,0.41,0.75,Angry
+Sunflower,Post Malone,0.49,0.38,Angry
+Levitating,Dua Lipa,0.28,0.43,Happy
+Peaches,Justin Bieber,0.16,0.72,Angry
+Memories,Maroon 5,0.3,0.78,Sad
+Don't Start Now,Dua Lipa,0.91,0.14,Sad
+Lovely,Billie Eilish,0.86,0.77,Angry
+Mood,24kGoldn,0.74,0.19,Angry
+Intentions,Justin Bieber,0.71,0.21,Happy
+Stitches,Shawn Mendes,0.9,0.18,Happy
+Senorita,Shawn Mendes,0.56,0.72,Angry
+Savage Love,Jason Derulo,0.37,0.28,Angry
+Rockstar,DaBaby,0.67,0.74,Sad
+Lucid Dreams,Juice WRLD,0.17,0.69,Angry
+God's Plan,Drake,0.14,0.8,Happy
+Goosebumps,Travis Scott,0.3,0.43,Happy
+MONTERO,Lil Nas X,0.49,0.31,Angry
+Therefore I Am,Billie Eilish,0.48,0.38,Happy
+Positions,Ariana Grande,0.16,0.5,Happy
+Peach,Justin Bieber,0.5,0.92,Calm
+Yummy,Justin Bieber,0.38,0.33,Happy
+Before You Go,Lewis Capaldi,0.36,0.66,Sad
+Circles,Post Malone,0.81,0.89,Angry
+Bad Habits,Ed Sheeran,0.62,0.67,Calm
+Shape of You,Ed Sheeran,0.76,0.54,Angry
+Photograph,Sam Smith,0.92,0.48,Sad
+Stay With Me,Bruno Mars,0.59,0.27,Angry
+Grenade,Bruno Mars,0.76,0.77,Sad
+Treasure,Lil Wayne,0.81,0.71,Angry
+Mirror,Khalid,0.27,0.12,Sad
+Young Dumb & Broke,Nick Jonas,0.44,0.44,Happy
+Jealous,The Chainsmokers,0.17,0.35,Happy
+Closer,The Chainsmokers,0.75,0.55,Angry
+Paris,Coldplay,0.84,0.84,Happy
+Hymn for the Weekend,Coldplay,0.53,0.71,Happy
+A Sky Full of Stars,Coldplay,0.65,0.56,Sad
+Viva La Vida,Vocal Few,0.16,0.79,Angry
+Counting Moments,Andra Day,0.63,0.79,Sad
+Rise Up,Rachel Platten,0.14,0.25,Sad
+Fight Song,Sara Bareilles,0.55,0.19,Happy
+Brave,David Guetta,0.77,0.69,Happy
+Titanium,Sia,0.45,0.77,Happy
+Elastic Heart,Sia,0.27,0.91,Calm
+Cheap Thrills,Clean Bandit,0.7,0.5,Sad
+Symphony,Alan Walker,0.93,0.25,Calm
+Alone,Surf Curse,0.42,0.69,Calm
+Freaks,Marshmello,0.64,0.46,Angry
+Silence,Anne-Marie,0.35,0.71,Angry
+Friends,Maroon 5,0.34,0.87,Sad
+Girls Like You,Maroon 5,0.56,0.64,Happy
+Sugar,Maroon 5,0.61,0.4,Happy
+Maps,Maroon 5,0.44,0.17,Happy
+Animals,Maroon 5,0.74,0.34,Angry
+Payphone,Coldplay,0.93,0.57,Sad
+The Scientist,Coldplay,0.81,0.25,Happy
+Fix You,Coldplay,0.95,0.33,Sad
+Paradise,Coldplay,0.31,0.77,Happy
+Adventure of a Lifetime,Coldplay,0.94,0.53,Happy
+Magic,Coldplay,0.16,0.43,Happy
+Yellow,Ed Sheeran,0.89,0.11,Happy
+Beautiful People,Ed Sheeran,0.29,0.78,Angry
+Castle on the Hill,Billie Eilish,0.46,0.64,Sad
+Happier Than Ever,Billie Eilish,0.67,0.49,Sad
+Everything I Wanted,Billie Eilish,0.24,0.69,Calm
+My Future,Billie Eilish,0.79,0.59,Happy
+Ocean Eyes,Billie Eilish,0.86,0.66,Calm
+Bellyache,Billie Eilish,0.69,0.59,Happy
+Lost Cause,Billie Eilish,0.25,0.29,Sad
+NDA,Billie Eilish,0.26,0.43,Angry
+When the Party's Over,Billie Eilish,0.83,0.62,Calm
+Bored,Coldplay,0.74,0.82,Sad
+No Time To Die,Billie Eilish,0.88,0.41,Sad
