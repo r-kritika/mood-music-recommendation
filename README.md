@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/streamlit-ready-brightgreen)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 A **mood-driven music recommendation system** that suggests songs based on your current emotional state. Select your mood, and the system provides a curated list of songs that fit your vibe.
 
