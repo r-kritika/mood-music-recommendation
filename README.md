@@ -18,15 +18,15 @@ A **mood-driven music recommendation system** that suggests songs based on your 
 
 ## Project Structure
 
-├── mood_music_system.ipynb # Notebook for model development and analysis
+├── mood_music_system.ipynb
 
-├── app.py # Streamlit application
+├── app.py 
 
-├── labeled_music_data.csv # Dataset with song details and predicted moods
+├── labeled_music_data.csv 
 
-├── music_data.csv # Original music dataset
+├── music_data.csv
 
-└── song_mood_model.pkl # Pre-trained mood prediction model
+└── song_mood_model.pkl
 
 
 
