@@ -1,41 +1,32 @@
-# 🎵 Mood-Based Music Recommendation System
+# mood music
 
-[![Python](https://img.shields.io/badge/python-3.9+-blue)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/streamlit-ready-brightgreen)](https://streamlit.io/)
+pick a mood. get songs that match it.
 
-A **mood-driven music recommendation system** that suggests songs based on your current emotional state. Select your mood, and the system provides a curated list of songs that fit your vibe.
-
----
-
-## Features
-
-- Predicts song mood using a pre-trained machine learning model.
-- Interactive interface to select your current mood.
-- Provides up to 10 randomized song recommendations matching the chosen mood.
-- Lightweight and easy to run locally.
+a lightweight ML model runs behind the scenes, classifying songs by emotional tone and serving up to 10 recommendations based on whatever you're feeling. no account needed, no data collected, runs entirely on your machine.
 
 ---
 
-## Project Structure
-
-├── mood_music_system.ipynb
-
-├── app.py 
-
-├── labeled_music_data.csv 
-
-├── music_data.csv
-
-└── song_mood_model.pkl
-
-
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.9+
-- Install required packages:
+## run it
 
 ```bash
 pip install pandas streamlit joblib
+streamlit run app.py
+```
+
+---
+
+## files
+
+```
+mood_music_system.ipynb   # model training
+app.py                    # the app
+labeled_music_data.csv    # labeled dataset
+music_data.csv            # raw song data
+song_mood_model.pkl       # trained model
+```
+
+---
+
+## stack
+
+Python 3.9+, Streamlit, scikit-learn, pandas
